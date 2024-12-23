@@ -1,6 +1,6 @@
 # **libhoudini-archive-unofficial**
 
-Archive contains Intel Houdini library files for:
+Archive contains official Intel Houdini library files for:
 ***"Android KitKat (4.4)"***,
 ***"Android Lollipop (5.1)"***,
 ***"Android Marshmallow (6.0)"***,
