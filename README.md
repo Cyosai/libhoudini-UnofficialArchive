@@ -31,7 +31,7 @@ For example using libhoudini files that were created for ***"Android Oreo (8.1)"
 
 Before doing this installation method, system should be supercharged (e.g **/system directory should be mounted as read/write**)
 
-By  installing **gearlock** and using **gearlock recovery**, ***Android x86*** system can be supercharged
+By  installing **gearlock** and using **gearlock recovery**, ***Android x86*** system.img can be supercharged
 or by using this guide:
 https://docs.blissos.org/knowledgebase/troubleshooting/remount-system-as-read-write/
 This guide was provided for **Bliss OS** - custom ***Android x86*** system.
