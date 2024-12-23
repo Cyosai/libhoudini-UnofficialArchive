@@ -1,4 +1,4 @@
-![IMG_3997](https://github.com/user-attachments/assets/20554a04-fdef-4f6a-ba44-48c2245808cc)
+![IMG_3998](https://github.com/user-attachments/assets/d51aa0b8-a80c-4590-9aaf-40aa18827ad5)
 # **libhoudini-archive-unofficial**
 
 Archive contains official Intel Houdini library files for:
