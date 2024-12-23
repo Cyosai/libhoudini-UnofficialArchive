@@ -25,6 +25,8 @@ It is possible to use previous libhoudini series on newer ***android x86*** syst
 
 For example using libhoudini files that were created for ***"Android Oreo (8.1)"*** on ***"Android Pie (9.0)"***
 
+-------------------------------------
+
 **[ I ]**- Installation Method:
 
 Before doing this installation, system should be supercharged (e.g **/system directory should be mounted as read/write**)
