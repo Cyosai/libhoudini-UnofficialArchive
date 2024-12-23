@@ -40,3 +40,5 @@ https://docs.blissos.org/knowledgebase/troubleshooting/remount-system-as-read-wr
 This guide initially was provided for **Bliss OS** - custom ***Android x86*** system.
 But also can be used for other ***Android x86*** systems. **Bliss 15.x**
 means - ***Android 12 x86***. **Bliss 14.x** - ***Android 11 x86***. **Bliss 11.x** - ***Android 9 x86*** in the provided guide.
+
+1) Download .zip that contains Intel libhoudini files for your ***Android x86*** operating system from releases of this repository and extract .zip
