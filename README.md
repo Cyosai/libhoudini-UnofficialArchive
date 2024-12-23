@@ -35,4 +35,5 @@ By  installing **gearlock** and using **gearlock recovery**, ***Android x86*** s
 or by using this guide:
 https://docs.blissos.org/knowledgebase/troubleshooting/remount-system-as-read-write/
 This guide was provided for **Bliss OS** - custom ***Android x86*** system.
-But also can be used for other ***Android x86*** systems.
+But also can be used for other ***Android x86*** systems. Bliss 15.x 
+means - ***Android 12 x86***. Bliss 14.x - ***Android 11 x86***. Bliss 11.x - ***Android 9 x86*** in the provided guide.
