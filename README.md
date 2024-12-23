@@ -23,4 +23,4 @@ Archive contains Intel Houdini library files for:
 
 It is possible to use previous libhoudini series on newer ***android x86*** systems
 
-For example using libhoudini files that were created for *"Android Oreo (8.1)"* on *Android Pie (9.0)*
+For example using libhoudini files that were created for ***"Android Oreo (8.1)"*** on ***"Android Pie (9.0)"***
