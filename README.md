@@ -8,7 +8,7 @@ Archive contains Intel Houdini library files for:
 ***"Android Oreo (8.1)"***,
 ***"Android Pie (9.0)"***
 
-**Houdini (libhoudini)** is ARM and ARM64 translation layer for ***Android-x86***. Allows execution of applications for armeabi, armeabi-v7a and arm64-v8a architectures on x86-based devices.
+**Houdini (libhoudini)** is ARM and ARM64 translation layer for ***Android-x86***. Allows execution of applications for armeabi(arm), armeabi-v7a(arm) and arm64-v8a(arm64) architectures on x86-based devices.
 
 **Important note:**
 Starting from Android 5, each new released version of libhoudini now has 3 variants
