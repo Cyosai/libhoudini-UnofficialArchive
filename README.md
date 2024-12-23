@@ -24,3 +24,13 @@ Archive contains Intel Houdini library files for:
 It is possible to use previous libhoudini series on newer ***android x86*** systems
 
 For example using libhoudini files that were created for ***"Android Oreo (8.1)"*** on ***"Android Pie (9.0)"***
+
+**[ I ]**- Installation Method:
+
+Before doing this installation, system should be supercharged (e.g **/system directory should be mounted as read/write**)
+
+By  installing **gearlock** and using **gearlock recovery**, ***Android x86*** system can be supercharged
+or by using this guide:
+https://docs.blissos.org/knowledgebase/troubleshooting/remount-system-as-read-write/
+This guide was provided for **Bliss OS** - custom ***Android x86*** system.
+But also can be used for other ***Android x86*** systems.
