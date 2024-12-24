@@ -41,7 +41,7 @@ This guide initially was provided for **Bliss OS** - custom ***Android x86*** sy
 But also can be used for other ***Android x86*** systems. **Bliss 15.x**
 means - ***Android 12 x86***. **Bliss 14.x** - ***Android 11 x86***. **Bliss 11.x** - ***Android 9 x86*** in the provided guide.
 
-- **FX File Explorer** is recommended to be used for this installation method
+- **FX File Explorer** is recommended to be used for this installation method:
 
 - https://github.com/user-attachments/assets/b972b45c-76ee-4ec7-9c34-e265cef41e68
 
