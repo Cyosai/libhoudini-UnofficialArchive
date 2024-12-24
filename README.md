@@ -23,7 +23,7 @@ A work in progress archive that will contain all official Intel Houdini library 
 
 -------------------------------------
 
-It is possible to use previous libhoudini series on newer ***Android x86*** systems
+- It is possible to use previous libhoudini series on newer ***Android x86*** systems
 
 For example using libhoudini files that were created for ***Android Oreo (8.1)*** on ***Android Pie (9.0)***
 
