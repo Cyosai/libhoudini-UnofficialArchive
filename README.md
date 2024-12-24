@@ -29,7 +29,7 @@ For example using libhoudini files that were created for ***Android Oreo (8.1)**
 
 -------------------------------------
 
-**[ I ]**- Installation Method:
+**[ I ]**- **INSTALLATION METHOD:**
 
 Before doing this installation method, system.img should be supercharged (e.g **/system directory should be mounted as read/write**)
 
