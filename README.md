@@ -3,12 +3,12 @@
 # **libhoudini-archive-unofficial**
 
 A work in progress archive that will contain all official Intel Houdini library files for:
-***"Android KitKat (4.4)"***,
-***"Android Lollipop (5.1)"***,
-***"Android Marshmallow (6.0)"***,
-***"Android Nougat (7.1)"***,
-***"Android Oreo (8.1)"***,
-***"Android Pie (9.0)"***
+***Android KitKat (4.4)***,
+***Android Lollipop (5.1)***,
+***Android Marshmallow (6.0)***,
+***Android Nougat (7.1)***,
+***Android Oreo (8.1)***,
+***Android Pie (9.0)***
 
 **Houdini (libhoudini)** is ARM and ARM64 translation layer for ***Android-x86***. Allows execution of applications for armeabi(arm), armeabi-v7a(arm) and arm64-v8a(arm64) architectures on x86-based devices.
 
@@ -25,7 +25,7 @@ A work in progress archive that will contain all official Intel Houdini library 
 
 It is possible to use previous libhoudini series on newer ***Android x86*** systems
 
-For example using libhoudini files that were created for ***"Android Oreo (8.1)"*** on ***"Android Pie (9.0)"***
+For example using libhoudini files that were created for ***Android Oreo (8.1)*** on ***Android Pie (9.0)***
 
 -------------------------------------
 
