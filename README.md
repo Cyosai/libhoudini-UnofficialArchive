@@ -1,6 +1,5 @@
    CONCEPT FANMADE LOGO
 ![IMG_3998](https://github.com/user-attachments/assets/d51aa0b8-a80c-4590-9aaf-40aa18827ad5)
-# **libhoudini-archive-unofficial**
 
 A work in progress archive that will contain all official Intel Houdini library files for:
 ***Android KitKat (4.4)***,
