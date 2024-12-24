@@ -41,5 +41,5 @@ This guide initially was provided for **Bliss OS** - custom ***Android x86*** sy
 But also can be used for other ***Android x86*** systems. **Bliss 15.x**
 means - ***Android 12 x86***. **Bliss 14.x** - ***Android 11 x86***. **Bliss 11.x** - ***Android 9 x86*** in the provided guide.
 
-1) Download .zip that contains Intel libhoudini files for your ***Android x86*** operating system from releases of this repository and extract .zip
-2) Go to /system/bin/ directory of extracted folder and move "houdini" and "houdini64" files to /system/bin/ path of "Android x86" operating system
+**1)** Download desired .zip that contains Intel libhoudini files for your ***Android x86*** operating system from releases of this repository and extract .zip
+**2)** Go to /system/bin/ directory of extracted folder and move "houdini" and "houdini64" files to /system/bin/ path of ***"Android x86"*** operating system
