@@ -31,7 +31,7 @@ For example using libhoudini files that were created for ***Android Oreo (8.1)**
 
 - **[ I ]**- **INSTALLATION METHOD:**
 
-Before doing this installation method, system.img should be supercharged (e.g **/system directory should be mounted as read/write**)
+Before doing this installation method, system.img should be supercharged (**/system directory should be mounted as read/write**)
 
 By  installing **gearlock** and using **gearlock recovery**, ***Android x86*** system.img can be supercharged
 or by using this guide:
