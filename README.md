@@ -43,5 +43,5 @@ means - ***Android 12 x86***. **Bliss 14.x** - ***Android 11 x86***. **Bliss 11.
 
 - **FX File Explorer** is recommended to be used for this installation method
 
-https://github.com/user-attachments/assets/8ba2ce6f-0173-4e97-9e9d-e8914e389b86
+- https://github.com/user-attachments/assets/b972b45c-76ee-4ec7-9c34-e265cef41e68
 
